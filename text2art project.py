@@ -50,7 +50,7 @@ print("")
 tprint(text,font='random')
 print("")
 print("")
-
+print("")
 print(colored('You have 60 seconds to copy any font you want!', ('yellow')))
 time.sleep(61)
 print(colored('Bye! Code by Praxime', ('green')))
