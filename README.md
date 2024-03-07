@@ -1,5 +1,6 @@
 # [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-# 🤖 | Simple code for Art text fonts
+# 🤖 | text2art console Project
+Simple code for Art text fonts.
 # 🚧 | Requirements
 1. Python 3
 # 👞 | Steps
