@@ -9,6 +9,6 @@ Simple code for Art text fonts.
 3. Save and close it.
 4. Go to file directory and run the `text2art project.py` via clicking on it or opening `cmd` and writing `py text2art project.py`.
 5. It might take some moment for installing requirements first time so wait for it and it will be ok next times.
-6. Now your Art font is generated, Use and Enjoy.
+6. Now your Art font is generated 10 times with random art fonts! Use and Enjoy.
 # ❤️ | Support
 Support me by giving a **little star** to this Repo! <3
